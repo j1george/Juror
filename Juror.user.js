@@ -246,7 +246,7 @@ overflow: hidden; /* if for some reason it escapes the visible area don't displa
   }
 
   @media print {
-    .someClass{
+    #buttons{
         display: none;
     }
   }
